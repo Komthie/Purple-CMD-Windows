@@ -1,0 +1,1 @@
+a customized windows cmd for those who like purple colors, you can use it instead of using the standard windows cmd
